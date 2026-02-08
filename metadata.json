@@ -1,0 +1,8 @@
+{
+  "name": "NodeUno",
+  "description": "An adaptive learning desktop experience featuring AI-powered curricula, forced focus sessions, and knowledge graph visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
